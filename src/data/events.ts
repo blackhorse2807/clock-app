@@ -1388,7 +1388,7 @@ export const historicalEvents: Record<string, HistoricalEvent[]> = {
       source: "European Union"
     }
   ],
-  "24": [
+  "0": [
     {
       time_range: "12:00-12:05 AM",
       event_date: "Jan 1, 45 BC",
